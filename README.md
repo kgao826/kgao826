@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin Gao, welcome to my Github 👋
-I am currently a student at the Univerisity of Auckland doing my Masters of Information Technology. I will graduate in 2023. My Github mainly consists of univerisity assignment as well as some projects that I have created in my free time. My favourite programming languages are C# and Python. I also am looking towards getting an AWS and Azure fundamentals certification.
+I am currently a student at the Univerisity of Auckland doing my Masters of Information Technology. I will graduate in 2023. My Github mainly consists of univerisity assignment as well as some projects that I have created in my free time. I have an interest in cloud and cyberseucirty as well as database management and computer networking. My favourite programming languages are C# and Python. I also am looking towards getting an AWS and Azure fundamentals certification.
 
 ## My Skills
 ### Programming Languages
