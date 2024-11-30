@@ -32,8 +32,15 @@ Basic Knowledge:
 ![LaTeX](https://img.shields.io/badge/LaTeX-302d41?style=for-the-badge&logo=latex&logoColor=008080)
 ![Git](https://img.shields.io/badge/Git-302d41?style=for-the-badge&logo=git)
 
-## My Certification
-
+## My Certifications
+- AZ-900	Microsoft Azure Fundamentals
+-	AI-900	Microsoft AI Fundamentals
+-	DP-900	Microsoft Azure Data Fundamentals
+-	SC-900	Microsoft Security Fundamentals
+-	SC-200 	Microsoft Security Operations Analyst
+-	SC-300	Microsoft Identity and Access Associate
+-	AZ-500 	Microsoft Azure Security Technologies
+-	AWS-CP	AWS Certified Cloud Practitioner
 
 ## My Github Stats
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=kgao826&theme=blue-green)
