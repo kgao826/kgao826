@@ -1,5 +1,10 @@
 ### Hi there, I'm Kevin Gao, welcome to my Github 👋
-I am currently a student at the Univerisity of Auckland studying Master of Information Technology and Master of Information Governance. My Github mainly consists of university assignments as well as some automation projects that I have created in my free time. I am interested in cloud and cyber security, as well as database management and computer networking. My favourite programming languages are C# and Python. 
+I am currently a student at the Univerisity of Auckland studying Master of Information Technology and Master of Information Governance. My Github mainly consists of university assignments as well as some automation projects that I have created in my free time. I am interested in cloud and cyber security, as well as database management and computer networking. Although most of the automation is in PowerShell because of Microsoft products, my favourite programming languages are C# and Python. 
+
+##Notable Projects:
+- [Microsoft Azure Employee Onboarding and Offboarding Automation](https://github.com/kgao826/MSAzureOnboardingOffboarding) 
+- [Microsoft Sentinel Deployment](https://github.com/kgao826/MicrosoftSentinelDeployment)
+- Licenses Audit and Reporter
 
 ## My Skills
 ### Programming Languages
@@ -39,6 +44,7 @@ Basic Knowledge:
 -	SC-900	Microsoft Security Fundamentals
 -	SC-200 	Microsoft Security Operations Analyst
 -	SC-300	Microsoft Identity and Access Associate
+-	SC-400  Microsoft Information Protection and Compliance
 -	AZ-500 	Microsoft Azure Security Technologies
 -	AWS-CP	AWS Certified Cloud Practitioner
 
