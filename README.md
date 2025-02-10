@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin Gao, welcome to my Github 👋
-I am currently a student at the Univerisity of Auckland studying Master of Information Technology and Master of Information Governance. My Github mainly consists of university assignments as well as some automation projects that I have created in my free time. I am interested in cloud and cyber security, as well as database management and computer networking. Although most of the automation is in PowerShell because of Microsoft products, my favourite programming languages are C# and Python. 
+I am currently a student at the Univerisity of Auckland studying Master of Information Technology and Master of Information Governance. My Github mainly consists of university assignments as well as some automation projects that I have created in my free time or during my internship. I am interested in cloud and cyber security, as well as database management and computer networking. Although most of the automation is in PowerShell because of Microsoft products, my favourite programming languages are C# and Python. 
 
 ## Notable Projects:
 - [Microsoft Azure Employee Onboarding and Offboarding Automation](https://github.com/kgao826/MSAzureOnboardingOffboarding) 
