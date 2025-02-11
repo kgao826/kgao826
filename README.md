@@ -4,14 +4,11 @@ I am currently a student at the Univerisity of Auckland studying Master of Infor
 ## Notable Projects:
 _Clickable Links_
 
-[![Static Badge](https://img.shields.io/badge/Automated%20Microsoft%20Azure%20Employee%20Offboarding%20-0080FF)](https://github.com/kgao826/MSAzureOnboardingOffboarding)
-
-[![Static Badge](https://img.shields.io/badge/Automated%20Microsoft%20Azure%20Employee%20Onboarding%20-0080FF)]()
+[![Static Badge](https://img.shields.io/badge/Automated%20Microsoft%20Azure%20Employee%20-Offboarding%20-0080FF)](https://github.com/kgao826/MSAzureOnboardingOffboarding)
+[![Static Badge](https://img.shields.io/badge/Automated%20Microsoft%20Azure%20Employee%20-Onboarding%20-0080FF)]()
 
 [![Static Badge](https://img.shields.io/badge/Microsoft%20Sentinel%20Deployment-blue)](https://github.com/kgao826/MicrosoftSentinelDeployment)
-
-[![Static Badge](https://img.shields.io/badge/Microsoft%20Power%20BI%20Dashboard-yellow)]()
-
+[![Static Badge](https://img.shields.io/badge/Microsoft%20Power%20BI%20Sentinel%20SOC%20Dashboard-yellow)]()
 [![Static Badge](https://img.shields.io/badge/Licenses%20Audit%20and%20Reporter-white)]()
 
 ## My Skills
