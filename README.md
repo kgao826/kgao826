@@ -3,10 +3,10 @@ I am currently a student at the Univerisity of Auckland studying Master of Infor
 
 ## Notable Projects:
 - [Microsoft Azure Employee Offboarding Automation](https://github.com/kgao826/MSAzureOnboardingOffboarding)
-- [Microsoft Azure Employee Onboarding Automation]
+- [Microsoft Azure Employee Onboarding Automation]()
 - [Microsoft Sentinel Deployment](https://github.com/kgao826/MicrosoftSentinelDeployment)
 - [Microsoft Power BI Dashboard]()
-- Licenses Audit and Reporter
+- [Licenses Audit and Reporter]()
 
 ## My Skills
 ### Programming Languages
