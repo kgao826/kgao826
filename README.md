@@ -2,11 +2,17 @@
 I am currently a student at the Univerisity of Auckland studying Master of Information Technology and Master of Information Governance. My Github mainly consists of university assignments as well as some automation projects that I have created in my free time or during my internship. I am interested in cloud and cyber security, as well as database management and computer networking. Although most of the automation is in PowerShell because of Microsoft products, my favourite programming languages are C# and Python. 
 
 ## Notable Projects:
-- [![Static Badge](https://img.shields.io/badge/Microsoft%20Azure%20Employee%20Offboarding%20Automation-0080FF)](https://github.com/kgao826/MSAzureOnboardingOffboarding)
-- [Microsoft Azure Employee Onboarding Automation]()
-- [Microsoft Sentinel Deployment](https://github.com/kgao826/MicrosoftSentinelDeployment)
-- [Microsoft Power BI Dashboard]()
-- [Licenses Audit and Reporter]()
+_Clickable Links_
+
+[![Static Badge](https://img.shields.io/badge/Automated%20Microsoft%20Azure%20Employee%20Offboarding%20-0080FF)](https://github.com/kgao826/MSAzureOnboardingOffboarding)
+
+[![Static Badge](https://img.shields.io/badge/Automated%20Microsoft%20Azure%20Employee%20Onboarding%20-0080FF)]()
+
+[![Static Badge](https://img.shields.io/badge/Microsoft%20Sentinel%20Deployment-blue)](https://github.com/kgao826/MicrosoftSentinelDeployment)
+
+[![Static Badge](https://img.shields.io/badge/Microsoft%20Power%20BI%20Dashboard-yellow)]()
+
+[![Static Badge](https://img.shields.io/badge/Licenses%20Audit%20and%20Reporter-white)]()
 
 ## My Skills
 ### Programming Languages
