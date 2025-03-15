@@ -9,7 +9,7 @@ I am currently a student at the Univerisity of Auckland studying Master of Infor
 
 [![Static Badge](https://img.shields.io/badge/Microsoft%20Sentinel%20Deployment-blue)](https://github.com/kgao826/MicrosoftSentinelDeployment)
 [![Static Badge](https://img.shields.io/badge/Microsoft%20Power%20BI%20Sentinel%20SOC%20Dashboard-yellow)]()
-[![Static Badge](https://img.shields.io/badge/Licenses%20Audit%20and%20Reporter-white)](https://github.com/kgao826/MSLicensesReporter)
+[![Static Badge](https://img.shields.io/badge/MS%20Licenses%20Audit%20and%20Reporter-white)](https://github.com/kgao826/MSLicensesReporter)
 
 ## My Skills
 ### Programming Languages
