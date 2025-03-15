@@ -43,7 +43,7 @@ Basic Knowledge:
 ![Git](https://img.shields.io/badge/Git-302d41?style=for-the-badge&logo=git)
 
 ## My Certifications
-- AZ-900	Microsoft Azure Fundamentals
+- AZ-104	Microsoft Azure Associate
 -	AI-900	Microsoft AI Fundamentals
 -	DP-900	Microsoft Azure Data Fundamentals
 -	SC-900	Microsoft Security Fundamentals
