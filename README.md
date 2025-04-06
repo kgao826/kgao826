@@ -11,6 +11,10 @@ I am currently a student at the Univerisity of Auckland studying Master of Infor
 [![Static Badge](https://img.shields.io/badge/Microsoft%20Power%20BI%20Sentinel%20SOC%20Dashboard-yellow)]()
 [![Static Badge](https://img.shields.io/badge/MS%20Licenses%20Audit%20and%20Reporter-white)](https://github.com/kgao826/MSLicensesReporter)
 
+[![Static Badge](https://img.shields.io/badge/Fluent%20Dynamic%20Query%20Chinook%20C%23-black)](https://github.com/kgao826/Fluent-Dynamic-Query-Chinook)
+[![Static Badge](https://img.shields.io/badge/Shakespearean%20Monkeys%20Algorithm%20C%23-black)](https://github.com/kgao826/Shakespearean-Monkeys-Algorithm)
+[![Static Badge](https://img.shields.io/badge/Multicast%20Middleware%20Program%20C%23-black)](https://github.com/kgao826/Multicast-Middleware-Program)
+
 ## My Skills
 ### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
